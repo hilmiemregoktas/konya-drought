@@ -1,6 +1,6 @@
 # konya-drought
 
-This project is administered by Hilmi Emre Göktaş, a student in Mersin Yusuf Kalkavan Anatolian High School, with the guidance of Zerrin Dağlı. It is ranked 2nd on TUBITAK 2204-D High School Climate Change Research Projects Competition in 2022. You can access the article of the study in here (but in Turkish, with English abstract section): https://dergipark.org.tr/tr/pub/tuzal/issue/73885/1191233
+This project is administered by Hilmi Emre Göktaş, a student in Mersin Yusuf Kalkavan Anatolian High School, with the guidance of Zerrin Dağlı. It is ranked 2nd on TUBITAK 2204-D High School Climate Change Research Projects Competition in 2022. You can access the article of the study in here (but in Turkish, with English abstract section): [https://dergipark.org.tr/en/pub/tuzal/issue/73885/1191233]
 
 The codes related to the study are related to:
 * Cropping and merging satellite images according to the borders of Konya Closed Basin,
